@@ -1,12 +1,11 @@
-# Steven`s Learning-Journal
+# Steven`s Learning-Journalth
 this is my readme
 ## Markdown notes
--a hastag creates a H2 Heading
--2 hashtags creates a H2 Heading
+-**Growth** Mindset definition can open pathways to more creativity and enable the setting of higher goals and more achievement 
 
-1. Markdown is fun
-1. Adrienne is our TA
-1. Ryan is an insructor
-1. Ryan ids a student
+
+1. Focus
+1. determined
+1. eageer to learn and be Persistant
 
 this is my read me
